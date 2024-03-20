@@ -1,5 +1,5 @@
 ## Homeworks and Projects
 
-```markdown
-1. [Homework 1](homeworks/hw1.md)
-```
+1. [Homework 1](https://lmfaraday.github.io/spring24-lmfaraday/homework1)
+
+--- 
