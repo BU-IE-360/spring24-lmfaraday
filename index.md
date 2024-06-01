@@ -1,6 +1,6 @@
 # Homeworks and Project
 
-## Homework 1
+## Homework 
 Built three different time series regression models using the data from [CBRT](https://evds2.tcmb.gov.tr/). To make models more accurate, additional data from [Google Trends](https://trends.google.com/trends/) was also used. 
 
 - [Report](Homework_1\report.html)
